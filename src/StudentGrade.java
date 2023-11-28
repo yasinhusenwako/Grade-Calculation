@@ -199,7 +199,7 @@ public class StudentGrade {
         System.out.print("Enter year :");
         student1.Year = n.nextInt();
 
-        System.out.print("semister :");
+        System.out.print("semester :");
         student1.Semister = n.nextInt();
     }
 
